@@ -1,0 +1,1540 @@
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | hemmaglutinin-esterase [Bovine coronavirus], 653
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | spike structural protein [Bovine coronavirus], 3255
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | 4.9 kDa non-structural protein [Bovine coronavirus], 747
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | 4.8 kDa non-structural protein [Bovine coronavirus], 699
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | 12.7 kDa non-structural protein [Bovine coronavirus], 530
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 586
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 403
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 709
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 425
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 20445
+bcov | 32 kDa non-structural protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 12312
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 2685
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 491
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 579
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 607
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 418
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 589
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19437
+bcov | 32 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11418
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 46
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 657
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3225
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 528
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 586
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 401
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 712
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 654
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12312
+bcov | 32 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20448
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3225
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 545
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 540
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 421
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 420
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 597
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 417
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 654
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 542
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20397
+bcov | 32 kDa non-structural protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12336
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2931
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 432
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 462
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 611
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 420
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 645
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 514
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 702
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 717
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 588
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 674
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 562
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 628
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20382
+bcov | 32 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12309
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | spike structural protein [Bovine coronavirus], 2838
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | 4.9 kDa non-structural protein [Bovine coronavirus], 1185
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | 4.8 kDa non-structural protein [Bovine coronavirus], 1137
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | 12.7 kDa non-structural protein [Bovine coronavirus], 947
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 1020
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 701
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 703
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 756
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 20007
+bcov | hemmaglutinin-esterase [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 11874
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 2302
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 883
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 1008
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 1041
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 717
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 650
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 18999
+bcov | hemmaglutinin-esterase [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 10980
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 654
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 52
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 2812
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 947
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 1020
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 702
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 705
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 1092
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 11874
+bcov | hemmaglutinin-esterase [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20010
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 2808
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 964
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 949
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 689
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 721
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 1026
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 728
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 678
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 941
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 19959
+bcov | hemmaglutinin-esterase [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11898
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2536
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 660
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 838
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 1044
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 734
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 1083
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 913
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 1140
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 1155
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 1020
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 701
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 980
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 1062
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19944
+bcov | hemmaglutinin-esterase [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11871
+bcov | spike structural protein [Bovine coronavirus], bcov | 4.9 kDa non-structural protein [Bovine coronavirus], 4002
+bcov | spike structural protein [Bovine coronavirus], bcov | 4.8 kDa non-structural protein [Bovine coronavirus], 3954
+bcov | spike structural protein [Bovine coronavirus], bcov | 12.7 kDa non-structural protein [Bovine coronavirus], 3762
+bcov | spike structural protein [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 3837
+bcov | spike structural protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 3399
+bcov | spike structural protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 2810
+bcov | spike structural protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 3468
+bcov | spike structural protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 17190
+bcov | spike structural protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 9130
+bcov | spike structural protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 1930
+bcov | spike structural protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 3690
+bcov | spike structural protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 3825
+bcov | spike structural protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 3858
+bcov | spike structural protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 3414
+bcov | spike structural protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 2939
+bcov | spike structural protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 16182
+bcov | spike structural protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 8281
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 3255
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 2837
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 276
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 3762
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 3837
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 3399
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 2805
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 3909
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 9132
+bcov | spike structural protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 17193
+bcov | spike structural protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 1916
+bcov | spike structural protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 3780
+bcov | spike structural protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 3762
+bcov | spike structural protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 3351
+bcov | spike structural protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 3417
+bcov | spike structural protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 3843
+bcov | spike structural protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 3432
+bcov | spike structural protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 2885
+bcov | spike structural protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 3753
+bcov | spike structural protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 17142
+bcov | spike structural protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 9136
+bcov | spike structural protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 1879
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 3267
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 3627
+bcov | spike structural protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 3861
+bcov | spike structural protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 3426
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 3900
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 3723
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 3957
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 3972
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 3837
+bcov | spike structural protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 2875
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 3795
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 3879
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 17127
+bcov | spike structural protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 9104
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | 4.8 kDa non-structural protein [Bovine coronavirus], 74
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | 12.7 kDa non-structural protein [Bovine coronavirus], 242
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 171
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 603
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 1257
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 534
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 21192
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 13059
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 3432
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 312
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 183
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 152
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 588
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 1080
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 20184
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 12165
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 747
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 1185
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3972
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 242
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 170
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 603
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1257
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 108
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 13059
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21195
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3972
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 223
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 241
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 651
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 585
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 163
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 570
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 1152
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 250
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 21144
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 13083
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3678
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 735
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 375
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 147
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 576
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 113
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 280
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 67
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 55
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 170
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1179
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 211
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 136
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21129
+bcov | 4.9 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 13056
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | 12.7 kDa non-structural protein [Bovine coronavirus], 204
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 141
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 555
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 1209
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 486
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 21144
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 13011
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 3384
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 268
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 151
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 125
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 540
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 1032
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 20136
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 12117
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 699
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 1137
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3924
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 206
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 141
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 555
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1209
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 95
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 13011
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21147
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3924
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 189
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 208
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 603
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 537
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 141
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 522
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 1104
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 214
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 21096
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 13035
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3630
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 687
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 328
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 123
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 528
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 96
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 240
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 65
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 69
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 138
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1131
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 182
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 114
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21081
+bcov | 4.8 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 13008
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | small membrane protein [Bovine coronavirus], 166
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 403
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 1017
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 352
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 20952
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 12819
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 3192
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 197
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 168
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 165
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 394
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 844
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19944
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11925
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 530
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 948
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3732
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 14
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 166
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 401
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1017
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 178
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12819
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20955
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3732
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 161
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 171
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 449
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 392
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 166
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 376
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 915
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 184
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20904
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12843
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3438
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 521
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 235
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 168
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 383
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 179
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 180
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 206
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 219
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 168
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 942
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 174
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 179
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20889
+bcov | 12.7 kDa non-structural protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12816
+bcov | small membrane protein [Bovine coronavirus], bcov | matrix protein [Bovine coronavirus], 453
+bcov | small membrane protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 1092
+bcov | small membrane protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 394
+bcov | small membrane protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 21027
+bcov | small membrane protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 12894
+bcov | small membrane protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 3267
+bcov | small membrane protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 207
+bcov | small membrane protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 136
+bcov | small membrane protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 119
+bcov | small membrane protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 437
+bcov | small membrane protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 915
+bcov | small membrane protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 20019
+bcov | small membrane protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 12000
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 585
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 1020
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3807
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 167
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 3
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 454
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1092
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 133
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12894
+bcov | small membrane protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21030
+bcov | small membrane protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3807
+bcov | small membrane protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 154
+bcov | small membrane protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 168
+bcov | small membrane protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 497
+bcov | small membrane protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 430
+bcov | small membrane protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 118
+bcov | small membrane protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 416
+bcov | small membrane protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 987
+bcov | small membrane protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 178
+bcov | small membrane protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20979
+bcov | small membrane protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12918
+bcov | small membrane protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3513
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 573
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 256
+bcov | small membrane protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 125
+bcov | small membrane protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 430
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 121
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 192
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 144
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 151
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 133
+bcov | small membrane protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1014
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 163
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 140
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20964
+bcov | small membrane protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12891
+bcov | matrix protein [Bovine coronavirus], bcov | nucleocapsid protein [Bovine coronavirus], 777
+bcov | matrix protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 361
+bcov | matrix protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 20589
+bcov | matrix protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 12456
+bcov | matrix protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 2829
+bcov | matrix protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 378
+bcov | matrix protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 445
+bcov | matrix protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 469
+bcov | matrix protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 326
+bcov | matrix protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 633
+bcov | matrix protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19581
+bcov | matrix protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11562
+bcov | matrix protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 410
+bcov | matrix protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 702
+bcov | matrix protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3369
+bcov | matrix protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 401
+bcov | matrix protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 454
+bcov | matrix protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 37
+bcov | matrix protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 776
+bcov | matrix protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 516
+bcov | matrix protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12456
+bcov | matrix protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20592
+bcov | matrix protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3369
+bcov | matrix protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 409
+bcov | matrix protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 413
+bcov | matrix protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 364
+bcov | matrix protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 344
+bcov | matrix protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 454
+bcov | matrix protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 303
+bcov | matrix protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 697
+bcov | matrix protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 415
+bcov | matrix protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20541
+bcov | matrix protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12480
+bcov | matrix protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3075
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 404
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 360
+bcov | matrix protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 473
+bcov | matrix protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 324
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 504
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 397
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 558
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 573
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 460
+bcov | matrix protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 725
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 438
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 491
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20526
+bcov | matrix protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12453
+bcov | nucleocapsid protein [Bovine coronavirus], bcov | internal protein [Bovine coronavirus], 723
+bcov | nucleocapsid protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 19935
+bcov | nucleocapsid protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 11802
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 2273
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 956
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 1080
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 1113
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 784
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 671
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 18927
+bcov | nucleocapsid protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 10908
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 711
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 704
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 2773
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 1017
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 1092
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 778
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 48
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 1164
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 11802
+bcov | nucleocapsid protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 19938
+bcov | nucleocapsid protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 2770
+bcov | nucleocapsid protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 1035
+bcov | nucleocapsid protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 1017
+bcov | nucleocapsid protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 755
+bcov | nucleocapsid protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 790
+bcov | nucleocapsid protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 1098
+bcov | nucleocapsid protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 791
+bcov | nucleocapsid protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 633
+bcov | nucleocapsid protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 1010
+bcov | nucleocapsid protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 19887
+bcov | nucleocapsid protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11826
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2499
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 721
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 904
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 1116
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 785
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 1155
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 982
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 1212
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 1227
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 1092
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 634
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 1050
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 1134
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19872
+bcov | nucleocapsid protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11799
+bcov | internal protein [Bovine coronavirus], bcov | orf1ab polyprotein [Bovine coronavirus], 20658
+bcov | internal protein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 12525
+bcov | internal protein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 2898
+bcov | internal protein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 332
+bcov | internal protein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 385
+bcov | internal protein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 407
+bcov | internal protein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 343
+bcov | internal protein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 660
+bcov | internal protein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19650
+bcov | internal protein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11631
+bcov | internal protein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 430
+bcov | internal protein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 756
+bcov | internal protein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3438
+bcov | internal protein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 354
+bcov | internal protein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 394
+bcov | internal protein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 362
+bcov | internal protein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 739
+bcov | internal protein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 442
+bcov | internal protein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12525
+bcov | internal protein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20661
+bcov | internal protein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3438
+bcov | internal protein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 366
+bcov | internal protein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 347
+bcov | internal protein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 366
+bcov | internal protein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 343
+bcov | internal protein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 397
+bcov | internal protein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 336
+bcov | internal protein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 714
+bcov | internal protein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 345
+bcov | internal protein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20610
+bcov | internal protein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12549
+bcov | internal protein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3144
+bcov | internal protein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 412
+bcov | internal protein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 318
+bcov | internal protein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 407
+bcov | internal protein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 346
+bcov | internal protein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 436
+bcov | internal protein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 337
+bcov | internal protein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 489
+bcov | internal protein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 504
+bcov | internal protein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 392
+bcov | internal protein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 738
+bcov | internal protein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 363
+bcov | internal protein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 419
+bcov | internal protein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20595
+bcov | internal protein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12522
+bcov | orf1ab polyprotein [Bovine coronavirus], bcov | orf1a polyprotein [Bovine coronavirus], 8133
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 17760
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 20880
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 21015
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 21048
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 20604
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 20112
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 9065
+bcov | orf1ab polyprotein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11257
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 20445
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 20007
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 17220
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 20952
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 21027
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 20589
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 19935
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 21099
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 8449
+bcov | orf1ab polyprotein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 585
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 17220
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 20970
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 20952
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 20541
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 20607
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 21033
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 20622
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 20040
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 20943
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 8953
+bcov | orf1ab polyprotein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11092
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 17514
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 20457
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 20817
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 21051
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 20616
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 21090
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 20913
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 21147
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 21162
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 21027
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 20013
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 20985
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 21069
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 8982
+bcov | orf1ab polyprotein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11090
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | surface glycoprotein [Human coronavirus 229E], 9643
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | 4a protein [Human coronavirus 229E], 12747
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | 4b protein [Human coronavirus 229E], 12882
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | envelope protein [Human coronavirus 229E], 12915
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | membrane protein [Human coronavirus 229E], 12471
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | nucleocapsid protein [Human coronavirus 229E], 11979
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 10180
+bcov | orf1a polyprotein [Bovine coronavirus], human229e | replicase polyprotein 1a [Human coronavirus 229E], 5968
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | ns2 [Human coronavirus OC43], 12312
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 11874
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 9161
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | ns12.9 [Human coronavirus OC43], 12819
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | envelope protein [Human coronavirus OC43], 12894
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | membrane protein [Human coronavirus OC43], 12456
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 11802
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | internal protein [Human coronavirus OC43], 12966
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 394
+bcov | orf1a polyprotein [Bovine coronavirus], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 8457
+bcov | orf1a polyprotein [Bovine coronavirus], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 9191
+bcov | orf1a polyprotein [Bovine coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 12837
+bcov | orf1a polyprotein [Bovine coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 12819
+bcov | orf1a polyprotein [Bovine coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 12408
+bcov | orf1a polyprotein [Bovine coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 12474
+bcov | orf1a polyprotein [Bovine coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 12900
+bcov | orf1a polyprotein [Bovine coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 12489
+bcov | orf1a polyprotein [Bovine coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 11907
+bcov | orf1a polyprotein [Bovine coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 12810
+bcov | orf1a polyprotein [Bovine coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 10890
+bcov | orf1a polyprotein [Bovine coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 6095
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 9430
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 12324
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 12684
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 12918
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 12483
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 12957
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 12780
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 13014
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 13029
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 12894
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 11880
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 12852
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 12936
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 10891
+bcov | orf1a polyprotein [Bovine coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 6087
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | 4a protein [Human coronavirus 229E], 3120
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | 4b protein [Human coronavirus 229E], 3255
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | envelope protein [Human coronavirus 229E], 3288
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | membrane protein [Human coronavirus 229E], 2844
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | nucleocapsid protein [Human coronavirus 229E], 2399
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 16752
+human229e | surface glycoprotein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 8769
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 2685
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 2305
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 1925
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 3192
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 3267
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 2829
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 2272
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 3339
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 9641
+human229e | surface glycoprotein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 17763
+human229e | surface glycoprotein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 1952
+human229e | surface glycoprotein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 3210
+human229e | surface glycoprotein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 3192
+human229e | surface glycoprotein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 2781
+human229e | surface glycoprotein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 2847
+human229e | surface glycoprotein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 3273
+human229e | surface glycoprotein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 2862
+human229e | surface glycoprotein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 2345
+human229e | surface glycoprotein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 3183
+human229e | surface glycoprotein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 17712
+human229e | surface glycoprotein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 9655
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 1799
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 2697
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 3057
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 3291
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 2856
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 3330
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 3153
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 3387
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 3402
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 3267
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 2336
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 3225
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 3309
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 17697
+human229e | surface glycoprotein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 9626
+human229e | 4a protein [Human coronavirus 229E], human229e | 4b protein [Human coronavirus 229E], 206
+human229e | 4a protein [Human coronavirus 229E], human229e | envelope protein [Human coronavirus 229E], 216
+human229e | 4a protein [Human coronavirus 229E], human229e | membrane protein [Human coronavirus 229E], 361
+human229e | 4a protein [Human coronavirus 229E], human229e | nucleocapsid protein [Human coronavirus 229E], 783
+human229e | 4a protein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19872
+human229e | 4a protein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11853
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 493
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 886
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3660
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 196
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 207
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 379
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 954
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 241
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12747
+human229e | 4a protein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20883
+human229e | 4a protein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3660
+human229e | 4a protein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 197
+human229e | 4a protein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 200
+human229e | 4a protein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 406
+human229e | 4a protein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 356
+human229e | 4a protein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 215
+human229e | 4a protein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 346
+human229e | 4a protein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 855
+human229e | 4a protein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 201
+human229e | 4a protein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20832
+human229e | 4a protein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12771
+human229e | 4a protein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3366
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 475
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 221
+human229e | 4a protein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 217
+human229e | 4a protein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 352
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 234
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 203
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 272
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 285
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 204
+human229e | 4a protein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 884
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 213
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 228
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20817
+human229e | 4a protein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12744
+human229e | 4b protein [Human coronavirus 229E], human229e | envelope protein [Human coronavirus 229E], 138
+human229e | 4b protein [Human coronavirus 229E], human229e | membrane protein [Human coronavirus 229E], 429
+human229e | 4b protein [Human coronavirus 229E], human229e | nucleocapsid protein [Human coronavirus 229E], 903
+human229e | 4b protein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 20007
+human229e | 4b protein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11988
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 580
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 1008
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3795
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 166
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 136
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 444
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1080
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 140
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12882
+human229e | 4b protein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21018
+human229e | 4b protein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3795
+human229e | 4b protein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 161
+human229e | 4b protein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 167
+human229e | 4b protein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 490
+human229e | 4b protein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 429
+human229e | 4b protein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 138
+human229e | 4b protein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 413
+human229e | 4b protein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 975
+human229e | 4b protein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 175
+human229e | 4b protein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20967
+human229e | 4b protein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12906
+human229e | 4b protein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3501
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 566
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 246
+human229e | 4b protein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 131
+human229e | 4b protein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 418
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 134
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 187
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 154
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 162
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 136
+human229e | 4b protein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1002
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 163
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 139
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20952
+human229e | 4b protein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12879
+human229e | envelope protein [Human coronavirus 229E], human229e | membrane protein [Human coronavirus 229E], 454
+human229e | envelope protein [Human coronavirus 229E], human229e | nucleocapsid protein [Human coronavirus 229E], 936
+human229e | envelope protein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 20040
+human229e | envelope protein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 12021
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 608
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 1041
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3828
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 163
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 119
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 470
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1113
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 123
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12915
+human229e | envelope protein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21051
+human229e | envelope protein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3828
+human229e | envelope protein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 156
+human229e | envelope protein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 169
+human229e | envelope protein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 513
+human229e | envelope protein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 446
+human229e | envelope protein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 117
+human229e | envelope protein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 436
+human229e | envelope protein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 1008
+human229e | envelope protein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 182
+human229e | envelope protein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 21000
+human229e | envelope protein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12939
+human229e | envelope protein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3534
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 593
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 265
+human229e | envelope protein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 115
+human229e | envelope protein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 445
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 115
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 198
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 123
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 134
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 123
+human229e | envelope protein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1035
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 155
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 128
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20985
+human229e | envelope protein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12912
+human229e | membrane protein [Human coronavirus 229E], human229e | nucleocapsid protein [Human coronavirus 229E], 642
+human229e | membrane protein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19596
+human229e | membrane protein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11577
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 417
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 723
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3384
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 391
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 437
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 320
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 784
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 497
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12471
+human229e | membrane protein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20607
+human229e | membrane protein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3384
+human229e | membrane protein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 403
+human229e | membrane protein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 395
+human229e | membrane protein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 376
+human229e | membrane protein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 355
+human229e | membrane protein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 440
+human229e | membrane protein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 309
+human229e | membrane protein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 697
+human229e | membrane protein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 394
+human229e | membrane protein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20556
+human229e | membrane protein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12495
+human229e | membrane protein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3090
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 399
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 347
+human229e | membrane protein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 455
+human229e | membrane protein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 322
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 490
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 381
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 543
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 558
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 432
+human229e | membrane protein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 724
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 421
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 475
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20541
+human229e | membrane protein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12468
+human229e | nucleocapsid protein [Human coronavirus 229E], human229e | replicase polyprotein 1ab [Human coronavirus 229E], 19104
+human229e | nucleocapsid protein [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 11085
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 585
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 652
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 2910
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 844
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 915
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 633
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 669
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 987
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 11979
+human229e | nucleocapsid protein [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20115
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 2907
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 862
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 847
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 626
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 647
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 921
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 645
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 627
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 835
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20064
+human229e | nucleocapsid protein [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12003
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2629
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 608
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 745
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 939
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 640
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 978
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 813
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 1035
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 1050
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 915
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 643
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 874
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 957
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20049
+human229e | nucleocapsid protein [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11976
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], human229e | replicase polyprotein 1a [Human coronavirus 229E], 8019
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 19437
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 18999
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 16212
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 19944
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 20019
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 19581
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 18927
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 20091
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 10178
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 9059
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 16212
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 19962
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 19944
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 19533
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 19599
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 20025
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 19614
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 19032
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 19935
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 9150
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 10333
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 16506
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 19449
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 19809
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 20043
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 19608
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 20082
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 19905
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 20139
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 20154
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 20019
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 19005
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 19977
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 20061
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 9159
+human229e | replicase polyprotein 1ab [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 10345
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | ns2 [Human coronavirus OC43], 11418
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 10980
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 8310
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | ns12.9 [Human coronavirus OC43], 11925
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | envelope protein [Human coronavirus OC43], 12000
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | membrane protein [Human coronavirus OC43], 11562
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 10908
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | internal protein [Human coronavirus OC43], 12072
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 5959
+human229e | replicase polyprotein 1a [Human coronavirus 229E], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 11259
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 8334
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 11943
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 11925
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 11514
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 11580
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 12006
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 11595
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 11013
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 11916
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 11226
+human229e | replicase polyprotein 1a [Human coronavirus 229E], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 6094
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | spike glycoprotein [SARS coronavirus Tor2], 8565
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF3a protein [SARS coronavirus Tor2], 11430
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF3b protein [SARS coronavirus Tor2], 11790
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | small envelope protein [SARS coronavirus Tor2], 12024
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 11589
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF6 protein [SARS coronavirus Tor2], 12063
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF7a protein [SARS coronavirus Tor2], 11886
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF7b protein [SARS coronavirus Tor2], 12120
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF8a protein [SARS coronavirus Tor2], 12135
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF8b protein [SARS coronavirus Tor2], 12000
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 10986
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF9b protein [SARS coronavirus Tor2], 11958
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF9a protein [SARS coronavirus Tor2], 12042
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 11209
+human229e | replicase polyprotein 1a [Human coronavirus 229E], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 6113
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], 653
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 3225
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | ns12.9 [Human coronavirus OC43], 529
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | envelope protein [Human coronavirus OC43], 586
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | membrane protein [Human coronavirus OC43], 408
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 711
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 654
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12312
+humanoc43 | ns2 [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20448
+humanoc43 | ns2 [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3225
+humanoc43 | ns2 [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 547
+humanoc43 | ns2 [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 542
+humanoc43 | ns2 [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 417
+humanoc43 | ns2 [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 422
+humanoc43 | ns2 [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 596
+humanoc43 | ns2 [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 418
+humanoc43 | ns2 [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 653
+humanoc43 | ns2 [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 541
+humanoc43 | ns2 [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20397
+humanoc43 | ns2 [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12336
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2931
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 435
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 464
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 610
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 422
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 645
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 515
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 702
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 717
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 586
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 675
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 561
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 627
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20382
+humanoc43 | ns2 [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12309
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | spike surface glycoprotein [Human coronavirus OC43], 2809
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | ns12.9 [Human coronavirus OC43], 947
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | envelope protein [Human coronavirus OC43], 1020
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | membrane protein [Human coronavirus OC43], 702
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 703
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 1092
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 11874
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20010
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 2811
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 966
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 949
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 691
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 718
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 1026
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 730
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 687
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 944
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 19959
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11898
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2537
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 662
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 841
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 1044
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 738
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 1083
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 916
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 1140
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 1155
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 1020
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 706
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 982
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 1062
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19944
+humanoc43 | hemagglutinin-esterase [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11871
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | ns12.9 [Human coronavirus OC43], 3732
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | envelope protein [Human coronavirus OC43], 3807
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | membrane protein [Human coronavirus OC43], 3369
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 2775
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 3879
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 9157
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 17223
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 1887
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 3750
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 3732
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 3321
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 3387
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 3813
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 3402
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 2860
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 3723
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 17172
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 9158
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 1867
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 3237
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 3597
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 3831
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 3396
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 3870
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 3693
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 3927
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 3942
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 3807
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 2846
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 3765
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 3849
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 17157
+humanoc43 | spike surface glycoprotein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 9137
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | envelope protein [Human coronavirus OC43], 166
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | membrane protein [Human coronavirus OC43], 402
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1017
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 182
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12819
+humanoc43 | ns12.9 [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20955
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3732
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 164
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 169
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 447
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 390
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 166
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 376
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 915
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 183
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20904
+humanoc43 | ns12.9 [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12843
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3438
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 520
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 234
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 165
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 386
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 179
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 184
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 205
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 220
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 169
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 943
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 175
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 179
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20889
+humanoc43 | ns12.9 [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12816
+humanoc43 | envelope protein [Human coronavirus OC43], humanoc43 | membrane protein [Human coronavirus OC43], 454
+humanoc43 | envelope protein [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 1092
+humanoc43 | envelope protein [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 133
+humanoc43 | envelope protein [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12894
+humanoc43 | envelope protein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21030
+humanoc43 | envelope protein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3807
+humanoc43 | envelope protein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 154
+humanoc43 | envelope protein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 168
+humanoc43 | envelope protein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 497
+humanoc43 | envelope protein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 430
+humanoc43 | envelope protein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 116
+humanoc43 | envelope protein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 417
+humanoc43 | envelope protein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 987
+humanoc43 | envelope protein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 176
+humanoc43 | envelope protein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20979
+humanoc43 | envelope protein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12918
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3513
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 572
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 255
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 125
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 429
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 120
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 190
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 142
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 149
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 134
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1014
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 164
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 139
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20964
+humanoc43 | envelope protein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12891
+humanoc43 | membrane protein [Human coronavirus OC43], humanoc43 | nucleocapsid protein [Human coronavirus OC43], 776
+humanoc43 | membrane protein [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 517
+humanoc43 | membrane protein [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12456
+humanoc43 | membrane protein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 20592
+humanoc43 | membrane protein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3369
+humanoc43 | membrane protein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 415
+humanoc43 | membrane protein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 410
+humanoc43 | membrane protein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 369
+humanoc43 | membrane protein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 350
+humanoc43 | membrane protein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 455
+humanoc43 | membrane protein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 306
+humanoc43 | membrane protein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 696
+humanoc43 | membrane protein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 410
+humanoc43 | membrane protein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20541
+humanoc43 | membrane protein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12480
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3075
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 405
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 361
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 473
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 329
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 503
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 396
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 558
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 573
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 459
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 725
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 438
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 493
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20526
+humanoc43 | membrane protein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12453
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], humanoc43 | internal protein [Human coronavirus OC43], 1164
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 11802
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 19938
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 2768
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 1035
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 1017
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 749
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 791
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 1098
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 787
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 633
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 1009
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 19887
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11826
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2501
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 722
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 902
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 1116
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 783
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 1155
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 979
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 1212
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 1227
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 1092
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 632
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 1050
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 1134
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19872
+humanoc43 | nucleocapsid protein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11799
+humanoc43 | internal protein [Human coronavirus OC43], humanoc43 | ORF1a polyprotein [Human coronavirus OC43], 12966
+humanoc43 | internal protein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 21102
+humanoc43 | internal protein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 3879
+humanoc43 | internal protein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 170
+humanoc43 | internal protein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 185
+humanoc43 | internal protein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 559
+humanoc43 | internal protein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 494
+humanoc43 | internal protein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 128
+humanoc43 | internal protein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 477
+humanoc43 | internal protein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 1059
+humanoc43 | internal protein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 189
+humanoc43 | internal protein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 21051
+humanoc43 | internal protein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12990
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3585
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 642
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 297
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 119
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 487
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 100
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 220
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 98
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 99
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 134
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1086
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 157
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 105
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21036
+humanoc43 | internal protein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12963
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], 8136
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 9187
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 12837
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 12819
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 12408
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 12474
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 12900
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 12489
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 11907
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 12810
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 10885
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 6097
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 9427
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 12324
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 12684
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 12918
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 12483
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 12957
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 12780
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 13014
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 13029
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 12894
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 11880
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 12852
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 12936
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 10879
+humanoc43 | ORF1a polyprotein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 6085
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | spike protein [Middle East respiratory syndrome-related coronavirus], 17223
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 20973
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 20955
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 20544
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 20610
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 21036
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 20625
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 20043
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 20946
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 8942
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11085
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | spike glycoprotein [SARS coronavirus Tor2], 17517
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF3a protein [SARS coronavirus Tor2], 20460
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF3b protein [SARS coronavirus Tor2], 20820
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | small envelope protein [SARS coronavirus Tor2], 21054
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 20619
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF6 protein [SARS coronavirus Tor2], 21093
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF7a protein [SARS coronavirus Tor2], 20916
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF7b protein [SARS coronavirus Tor2], 21150
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF8a protein [SARS coronavirus Tor2], 21165
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF8b protein [SARS coronavirus Tor2], 21030
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 20016
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF9b protein [SARS coronavirus Tor2], 20988
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF9a protein [SARS coronavirus Tor2], 21072
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 8986
+humanoc43 | ORF1ab polyprotein [Human coronavirus OC43], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11092
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], 3750
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 3732
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 3321
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 3387
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 3813
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 3402
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 2845
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 3723
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 17172
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 9168
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 1869
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 3237
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 3597
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 3831
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 3396
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 3870
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 3693
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 3927
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 3942
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 3807
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 2835
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 3765
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 3849
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 17157
+mers | spike protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 9142
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], 166
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 458
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 398
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 157
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 383
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 930
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 180
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20922
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12861
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3456
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 527
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 229
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 156
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 392
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 163
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 180
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 188
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 196
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 152
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 958
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 161
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 166
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20907
+mers | NS3 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12834
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], 447
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 395
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 165
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 377
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 915
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 179
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20904
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12843
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3438
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 519
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 229
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 168
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 382
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 179
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 186
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 207
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 215
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 161
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 940
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 172
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 180
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20889
+mers | NS4A protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12816
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], 365
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 503
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 372
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 673
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 440
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20493
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12432
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3027
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 402
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 392
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 515
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 381
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 550
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 425
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 606
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 621
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 498
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 696
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 473
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 536
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20478
+mers | NS4B protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12405
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | envelope protein [Middle East respiratory syndrome-related coronavirus], 440
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 339
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 698
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 395
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20559
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12498
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3093
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 397
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 342
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 453
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 349
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 485
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 377
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 540
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 555
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 437
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 726
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 419
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 467
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20544
+mers | NS5 protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12471
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], mers | membrane protein [Middle East respiratory syndrome-related coronavirus], 427
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 993
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 176
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20985
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12924
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3519
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 578
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 259
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 114
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 430
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 121
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 192
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 137
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 147
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 129
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1020
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 156
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 131
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20970
+mers | envelope protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12897
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], 709
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 374
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20574
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12513
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3108
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 396
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 333
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 439
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 293
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 469
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 362
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 525
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 540
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 418
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 726
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 400
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 452
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20559
+mers | membrane protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12486
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], 903
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 19992
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 11931
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 2576
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 642
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 806
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 1011
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 702
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 1050
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 882
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 1107
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 1122
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 987
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 547
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 945
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 1029
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19977
+mers | nucleoprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11904
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], 20895
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 12834
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 3429
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 518
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 231
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 173
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 385
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 191
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 185
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 219
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 226
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 172
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 931
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 179
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 184
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20880
+mers | ORF8b protein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12807
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], 8061
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 17466
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 20409
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 20769
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 21003
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 20568
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 21042
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 20865
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 21099
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 21114
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 20979
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 19965
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 20937
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 21021
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 8808
+mers | 1AB polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 10990
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | spike glycoprotein [SARS coronavirus Tor2], 9424
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3a protein [SARS coronavirus Tor2], 12348
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF3b protein [SARS coronavirus Tor2], 12708
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | small envelope protein [SARS coronavirus Tor2], 12942
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 12507
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF6 protein [SARS coronavirus Tor2], 12981
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7a protein [SARS coronavirus Tor2], 12804
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF7b protein [SARS coronavirus Tor2], 13038
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8a protein [SARS coronavirus Tor2], 13053
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF8b protein [SARS coronavirus Tor2], 12918
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 11904
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9b protein [SARS coronavirus Tor2], 12876
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF9a protein [SARS coronavirus Tor2], 12960
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 10957
+mers | 1A polyprotein [Middle East respiratory syndrome-related coronavirus], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 6045
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF3a protein [SARS coronavirus Tor2], 2943
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF3b protein [SARS coronavirus Tor2], 3303
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | small envelope protein [SARS coronavirus Tor2], 3537
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 3102
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF6 protein [SARS coronavirus Tor2], 3576
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 3399
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 3633
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 3648
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 3513
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 2558
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 3471
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 3555
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 17451
+sars1 | spike glycoprotein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 9395
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF3b protein [SARS coronavirus Tor2], 446
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | small envelope protein [SARS coronavirus Tor2], 597
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 419
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF6 protein [SARS coronavirus Tor2], 633
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 498
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 690
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 705
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 575
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 672
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 549
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 616
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20394
+sars1 | ORF3a protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12321
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | small envelope protein [SARS coronavirus Tor2], 263
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 339
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF6 protein [SARS coronavirus Tor2], 287
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 225
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 331
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 346
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 254
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 832
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 243
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 276
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20754
+sars1 | ORF3b protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12681
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | membrane glycoprotein M [SARS coronavirus Tor2], 444
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF6 protein [SARS coronavirus Tor2], 111
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 194
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 120
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 131
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 123
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1038
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 160
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 125
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20988
+sars1 | small envelope protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12915
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF6 protein [SARS coronavirus Tor2], 479
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 370
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 531
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 546
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 429
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 730
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 408
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 460
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20553
+sars1 | membrane glycoprotein M [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12480
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF7a protein [SARS coronavirus Tor2], 211
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 92
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 100
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 121
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1077
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 162
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 110
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21027
+sars1 | ORF6 protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12954
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF7b protein [SARS coronavirus Tor2], 241
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 253
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 186
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 909
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 187
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 206
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20850
+sars1 | ORF7a protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12777
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF8a protein [SARS coronavirus Tor2], 61
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 139
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1134
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 188
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 118
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21084
+sars1 | ORF7b protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 13011
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | ORF8b protein [SARS coronavirus Tor2], 148
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1149
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 192
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 122
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21099
+sars1 | ORF8a protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 13026
+sars1 | ORF8b protein [SARS coronavirus Tor2], sars1 | nucleocapsid protein [SARS coronavirus Tor2], 1014
+sars1 | ORF8b protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 158
+sars1 | ORF8b protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 136
+sars1 | ORF8b protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20964
+sars1 | ORF8b protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12891
+sars1 | nucleocapsid protein [SARS coronavirus Tor2], sars1 | ORF9b protein [SARS coronavirus Tor2], 972
+sars1 | nucleocapsid protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 1056
+sars1 | nucleocapsid protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 19950
+sars1 | nucleocapsid protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 11877
+sars1 | ORF9b protein [SARS coronavirus Tor2], sars1 | ORF9a protein [SARS coronavirus Tor2], 155
+sars1 | ORF9b protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 20922
+sars1 | ORF9b protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12849
+sars1 | ORF9a protein [SARS coronavirus Tor2], sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], 21006
+sars1 | ORF9a protein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 12933
+sars1 | ORF1ab polyprotein [SARS coronavirus Tor2], sars1 | ORF1a polyprotein [SARS coronavirus Tor2], 8073
